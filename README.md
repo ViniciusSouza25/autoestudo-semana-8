@@ -118,3 +118,21 @@ summary_df = pd.DataFrame(summary_data)
 print(summary_df)
 
 ```
+
+
+## Conclusões Pessoais
+
+### Principais Aprendizados
+
+- **Manuseio de Dados e Pré-processamento**: Aprendizado sobre extração de datasets, visualização e processamento de imagens para visão computacional.
+- **Importância da Documentação**: Documentar cada passo é crucial para revisão e replicação de experimentos.
+
+### Limitações
+- **Escalabilidade**: A filtragem manual pode ser impraticável em datasets maiores.
+
+### Sugestões para Trabalhos Futuros
+
+- **Aquisição de Anotações**: Investir na obtenção de anotações para permitir uma análise mais robusta e a automação do processo.
+- **Implementação de Modelos de Machine Learning**: Utilizar modelos de deep learning para automatizar a detecção e classificação de imagens de bovinos.
+- **Expansão do Dataset**: Incorporar mais variedades de imagens de bovinos e aumentar a diversidade do dataset.
+
